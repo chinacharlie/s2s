@@ -4,5 +4,8 @@
 
 ## Samples
 Ô­Éù£º
-<embed id=bgmusic src="wjstf-1.wav" width=200 height=20>
+<audio >
+     <source src="wjstf.wav" type="audio/wav">
+Audio player not available.
+</audio>
 
