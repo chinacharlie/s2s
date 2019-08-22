@@ -1,11 +1,7 @@
-# ����ģ��
-## ������������磬ʵ�ֱ������κ��˵��ض��ˡ�
+# 声音模仿
+## 利用深度神经网络，实现变声。任何人到特定人。
 
 
 ## Samples
-ԭ����
-<audio >
-     <source src="wjstf.wav" type="audio/wav">
-Audio player not available.
-</audio>
-
+原声：
+<embed height="100" width="100" src="wjstf.mp3" />
