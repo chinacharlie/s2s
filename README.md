@@ -4,4 +4,4 @@
 
 ## Samples
 原声：
-<embed height="100" width="100" src="wjstf.mp3" />
+<a src='wjstf.mp3' />
