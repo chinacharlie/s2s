@@ -4,4 +4,15 @@
 
 ## Samples
 原声：
-<embed height="100" width="100" src="wjstf.mp3" />
+wsstf-1.wav
+
+变声
+wsstf.wav
+
+
+原声：
+wjstf-1.wav
+
+变声
+wjstf.wav
+
