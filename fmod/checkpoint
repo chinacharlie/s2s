@@ -1,0 +1,4 @@
+model_checkpoint_path: "fnet-296"
+all_model_checkpoint_paths: "fnet-294"
+all_model_checkpoint_paths: "fnet-295"
+all_model_checkpoint_paths: "fnet-296"
